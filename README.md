@@ -37,8 +37,8 @@ ARKHE dikembangkan di atas ekosistem Svelte 5 dan Vite. Pastikan Anda memiliki *
 
 ```bash
 # 1. Kloning repositori
-git clone https://github.com/your-org/arkhe.git
-cd arkhe
+git clone https://github.com/FerrDxD/arkhe-absensi.git
+cd arkhe-absensi
 
 # 2. Instal dependensi
 npm install

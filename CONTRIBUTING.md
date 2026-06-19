@@ -9,7 +9,7 @@ Dengan berpartisipasi dalam proyek ini, Anda setuju untuk mematuhi [Kode Etik (C
 1. **Fork Repositori:** Buat *fork* dari repositori ini ke akun GitHub Anda.
 2. **Kloning Proyek:** Kloning repositori yang telah di-*fork* ke mesin lokal Anda.
    ```bash
-   git clone https://github.com/USERNAME/arkhe.git
+   git clone https://github.com/FerrDxD/arkhe-absensi.git
    cd arkhe
    ```
 3. **Penyelarasan Branch:** Selalu mulai dengan memastikan Anda berada di cabang `main` terbaru.

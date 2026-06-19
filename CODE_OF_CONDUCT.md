@@ -34,7 +34,7 @@ Kode Etik ini berlaku di seluruh ruang lingkup proyek, baik di dalam sistem pela
 
 ## Penegakan (Enforcement)
 
-Perilaku yang dianggap kasar, melecehkan, atau hal lain yang tidak tertolerir sebaiknya segera dilaporkan kepada *project maintainer* melalui **admin@arkhe-systems.com**. Seluruh keluhan akan dievaluasi serta diinvestigasi lebih lanjut guna menentukan tindakan proporsional yang perlu diambil. Identitas pelapor akan dijaga kerahasiaannya.
+Perilaku yang dianggap kasar, melecehkan, atau hal lain yang tidak tertolerir sebaiknya segera dilaporkan kepada *project maintainer* melalui **ferd@nawasena.site**. Seluruh keluhan akan dievaluasi serta diinvestigasi lebih lanjut guna menentukan tindakan proporsional yang perlu diambil. Identitas pelapor akan dijaga kerahasiaannya.
 
 Atribusi
 Dokumen Kode Etik ini didasarkan pada dan diadaptasi dari [Contributor Covenant](https://www.contributor-covenant.org), versi 2.1.
